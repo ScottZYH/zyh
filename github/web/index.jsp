@@ -1,6 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: 张宇恒
+  entity.User: 张宇恒
   Date: 2018/10/11
   Time: 10:23
   To change this template use File | Settings | File Templates.
