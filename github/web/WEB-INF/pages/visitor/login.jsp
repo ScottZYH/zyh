@@ -11,7 +11,7 @@
     <title>游客登陆</title>
 </head>
 <body>
-<form action="${pageContext.request.contextPath }/visitor/login">
+<form action="${pageContext.request.contextPath }/visitor/login" method="post">
     <table border="1">
         <tr>
             <td>游客名</td>
